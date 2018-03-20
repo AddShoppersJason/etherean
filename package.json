@@ -1,0 +1,19 @@
+{
+  "name": "etherean",
+  "version": "1.0.0",
+  "description": "A library for building javascript apps without a user interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AddShoppersJason/etherean.git"
+  },
+  "author": "Jason Ehmke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AddShoppersJason/etherean/issues"
+  },
+  "homepage": "https://github.com/AddShoppersJason/etherean#readme"
+}
